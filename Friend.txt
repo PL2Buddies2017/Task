@@ -1,0 +1,6 @@
+Suppose we want 
+to rename a 
+file to "newname"
+, keeping the file
+ in the same dir
+ectory:
